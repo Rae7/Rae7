@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rae7
+- 👋 Hi, I’m Binay Rai
 - 👀 I’m interested in writing codes and developing software.
 - 🌱 I’m constantly learning new skills to better myself
 - 💞️ I’m looking for opportunities to startup my IT career
